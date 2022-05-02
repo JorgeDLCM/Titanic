@@ -1,5 +1,6 @@
 #Hola, bienvenido al clásico ejercicio de cálculo de la supervivencia del titanic, este es mi ejemplo con 3 modelos de ML
 #Puedes inspeccionar mi código, también voy a anexar los data sets csv utilizados
+#Saludos
 
 #Importamos librerías Pandas y Numpy para lectura y manipulación del data set
 
